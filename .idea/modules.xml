@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/Coding Projects/.idea/Coding Projects.iml" filepath="$USER_HOME$/Documents/Coding Projects/.idea/Coding Projects.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Coding Projects/Soccer Coding Projects/.idea/Soccer Coding Projects.iml" filepath="$USER_HOME$/Documents/Coding Projects/Soccer Coding Projects/.idea/Soccer Coding Projects.iml" />
+      <module fileurl="file://$USER_HOME$/etrade_python_client/.idea/etrade_python_client.iml" filepath="$USER_HOME$/etrade_python_client/.idea/etrade_python_client.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Coding Projects/Soccer Coding Projects/soccer workspace/.idea/soccer workspace.iml" filepath="$USER_HOME$/Documents/Coding Projects/Soccer Coding Projects/soccer workspace/.idea/soccer workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
