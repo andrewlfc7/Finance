@@ -1,2 +1,2 @@
 # Finance
-Webscraping bot to get Stock earnings call transcripts to do NLP sentiment analysis
+This repo is a list of finance projects I'm currently working on, so will be updated over time.
